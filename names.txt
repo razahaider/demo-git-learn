@@ -1,0 +1,23 @@
+hello
+guru
+whats app
+
+
+
+
+this is text entereddasdsasdasdd
+das dsdd as1234 addsda
+this is text entered after ctrl+q pressed
+press insert to overwrite text
+press delete to deleteadd
+sad
+sddasdasd
+asddasasd
+dasd123asdd222
+so to work with vim
+1. vi filename
+2. start entering text, press insert key to overwrite, press delete to delete from Left->Right
+3. press enter to move to next line
+4. press ESC, shift+:, x  -----------> save file content and exit
+5. press Esc, shift+: , q! ----------> not save and exit
+
